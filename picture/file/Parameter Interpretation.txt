@@ -1,0 +1,19 @@
+L	Height of the column
+b	Width of column section
+h	Height of column section
+d	Section effective depth
+fc	compressive strength of concrete
+Ag	Gross area of column section
+pl%	Longitudinal reinforcement ratio
+fy	Yield strength of longitudinal bar
+ps%	Transverse reinforcement volumetric ratio
+Asl	Area of a single longitudinal bar
+fyt	Yield strength of transverse steel
+s	Spacing of transverse reinforcement
+Ast	Area of transverse reinforcement bar
+P	Applied axial load
+n	Axial compression ratio
+λ	shear span ratio
+L/h	Span-to-Depth Ratio
+FM	Failure mode
+Vmax	Peak shear bearing capacity of column
